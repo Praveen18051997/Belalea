@@ -1,0 +1,43 @@
+.blog-content-section{
+    padding:20px 8% 80px;
+}
+
+.content-container{
+    max-width:900px;
+    margin:auto;
+}
+
+.content-container p{
+    line-height:1.9;
+    color:#666;
+    margin-bottom:25px;
+}
+
+.content-container h2{
+    margin:40px 0 20px;
+    font-size:34px;
+}
+
+.content-container h3{
+    margin:40px 0 20px;
+    font-size:28px;
+}
+
+.content-container ul{
+    padding-left:20px;
+    margin:30px 0;
+}
+
+.content-container li{
+    margin-bottom:12px;
+}
+
+blockquote{
+    margin:50px 0;
+    padding:30px;
+    border-left:5px solid #6cab43;
+    background:#f7faf4;
+    font-style:italic;
+    font-size:22px;
+    line-height:1.8;
+}
